@@ -24,9 +24,9 @@
     "detective"
   ],
   "dependencies": {
-    "formatted": "^1.0.0"
   },
   "devDependencies": {
+    "formatted": "^1.0.0",
     "ava": "^0.20.0",
     "codecov": "^2.2.0",
     "nyc": "^11.0.0"
